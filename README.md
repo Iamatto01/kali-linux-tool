@@ -1,0 +1,1 @@
+yg ni ai buat
