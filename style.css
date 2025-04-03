@@ -72,3 +72,36 @@ button:hover {
     font-size: 18px;
     color: #28a745;
 }
+
+/* Styles for the web vulnerability scanner form */
+#web-vulnerability-scanner-form {
+    margin-bottom: 30px;
+}
+
+#web-vulnerability-scanner-result {
+    margin-top: 20px;
+    font-size: 18px;
+    color: #dc3545;
+}
+
+/* Styles for the password cracker form */
+#password-cracker-form {
+    margin-bottom: 30px;
+}
+
+#password-cracker-result {
+    margin-top: 20px;
+    font-size: 18px;
+    color: #ffc107;
+}
+
+/* Styles for the network packet analyzer form */
+#network-packet-analyzer-form {
+    margin-bottom: 30px;
+}
+
+#network-packet-analyzer-result {
+    margin-top: 20px;
+    font-size: 18px;
+    color: #17a2b8;
+}
